@@ -25,7 +25,7 @@
 
 1. fork本项目到你的个人账号
    
-2. 设置Secrets
+2. 设置Secrets   
 
     从Github中进入刚刚fork到你的个人账号下的本项目，打开项目的Settings->Secrets页面
     
